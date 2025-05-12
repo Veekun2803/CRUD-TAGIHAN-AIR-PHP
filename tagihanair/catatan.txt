@@ -1,0 +1,5 @@
+tarif Pemakaian air adalah  
+untuk    0 -10 m3pertama, tarif sebesar Rp. 2.500,-/m3 
+untuk  10 meter kubik berikutnya -20 m3tarif Rp. 5.000,-/m3 
+untuk  10 meter kubik berikutnya -  30 m3tarif  Rp. 7.000,-/m3
+untuk pemakaian selebihnya ( >31 m3 ) tarif Rp. 10.000/m3
